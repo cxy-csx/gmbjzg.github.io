@@ -6,7 +6,7 @@
   <link href="http://gmbjzg.github.io/atom.xml" rel="self"/>
   
   <link href="http://gmbjzg.github.io/"/>
-  <updated>2021-02-18T10:09:10.072Z</updated>
+  <updated>2021-02-20T08:13:38.615Z</updated>
   <id>http://gmbjzg.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python爬虫-数据解析-json</title>
+    <link href="http://gmbjzg.github.io/2021/02/20/python%E7%88%AC%E8%99%AB-%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90-json/"/>
+    <id>http://gmbjzg.github.io/2021/02/20/python%E7%88%AC%E8%99%AB-%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90-json/</id>
+    <published>2021-02-20T08:03:16.000Z</published>
+    <updated>2021-02-20T08:13:38.615Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-1-字典转json字符串"><a href="#1-1-字典转json字符串" class="headerlink" title="1.1 字典转json字符串"></a>1.1 字典转json字符串</h2><p>字典转字符串,示例代码如下：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> json</span><br><span class="line">dit = &#123;</span><br><span class="line">    <span class="string">&quot;name&quot;</span>: <span class="string">&quot;gmbjzg&quot;</span>,</span><br><span class="line">    <span class="string">&quot;age&quot;</span>: <span class="number">18</span></span><br><span class="line">&#125;</span><br><span class="line">string = json.dumps(dit)</span><br></pre></td></tr></table></figure><p>写入.json文件，示例代码如下：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&#x27;xx.json&#x27;</span>, <span class="string">&#x27;w&#x27;</span>, encoding=<span class="string">&#x27;utf-8&#x27;</span>) <span class="keyword">as</span> fp:</span><br><span class="line">json.dump(dit, fp=fp)</span><br></pre></td></tr></table></figure><h2 id="1-2字符串转字典"><a href="#1-2字符串转字典" class="headerlink" title="1.2字符串转字典"></a>1.2字符串转字典</h2><p>字符串转字典,示例代码如下：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> json</span><br><span class="line"><span class="keyword">with</span> <span class="built_in">open</span>(<span class="string">&#x27;xx.json&#x27;</span>, <span class="string">&#x27;r&#x27;</span>) <span class="keyword">as</span> fp:</span><br><span class="line"><span class="comment"># json.loads(fp.read())</span></span><br><span class="line">json.load(fp=fp)  <span class="comment"># 加载文件</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;1-1-字典转json字符串&quot;&gt;&lt;a href=&quot;#1-1-字典转json字符串&quot; class=&quot;headerlink&quot; title=&quot;1.1 字典转json字符串&quot;&gt;&lt;/a&gt;1.1 字典转json字符串&lt;/h2&gt;&lt;p&gt;字典转字符串,示例代码如下：&lt;/p&gt;
+&lt;fi</summary>
+      
+    
+    
+    
+    
+    <category term="python爬虫" scheme="http://gmbjzg.github.io/tags/python%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo-pure个人博客搭建教程(1)</title>
