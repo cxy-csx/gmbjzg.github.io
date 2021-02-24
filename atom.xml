@@ -6,7 +6,7 @@
   <link href="http://gmbjzg.github.io/atom.xml" rel="self"/>
   
   <link href="http://gmbjzg.github.io/"/>
-  <updated>2021-02-20T08:13:38.615Z</updated>
+  <updated>2021-02-24T15:25:34.385Z</updated>
   <id>http://gmbjzg.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>charles抓包软件配置</title>
+    <link href="http://gmbjzg.github.io/2021/02/24/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
+    <id>http://gmbjzg.github.io/2021/02/24/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/</id>
+    <published>2021-02-24T15:24:35.000Z</published>
+    <updated>2021-02-24T15:25:34.385Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、抓包软件charles的基本配置"><a href="#一、抓包软件charles的基本配置" class="headerlink" title="一、抓包软件charles的基本配置"></a>一、抓包软件charles的基本配置</h2><h3 id="1-1PC端配置"><a href="#1-1PC端配置" class="headerlink" title="1.1PC端配置"></a>1.1PC端配置</h3><p><strong>安装证书</strong></p><p><img src="C:\Users\gmbjzg\AppData\Roaming\Typora\typora-user-images\image-20210224231119587.png" alt="image-20210224231119587"></p><p><strong>设置SSL</strong></p><p><img src="C:\Users\gmbjzg\AppData\Roaming\Typora\typora-user-images\image-20210224231433938.png" alt="image-20210224231433938"></p><h3 id="1-2手机端配置"><a href="#1-2手机端配置" class="headerlink" title="1.2手机端配置"></a>1.2手机端配置</h3><p>手机端证书安装， 根据提示安装</p><p><img src="C:\Users\gmbjzg\AppData\Roaming\Typora\typora-user-images\image-20210224231738646.png" alt="image-20210224231738646"></p><p>或手动下载charles证书安装</p><p><img src="C:\Users\gmbjzg\AppData\Roaming\Typora\typora-user-images\image-20210224232138329.png" alt="image-20210224232138329"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;一、抓包软件charles的基本配置&quot;&gt;&lt;a href=&quot;#一、抓包软件charles的基本配置&quot; class=&quot;headerlink&quot; title=&quot;一、抓包软件charles的基本配置&quot;&gt;&lt;/a&gt;一、抓包软件charles的基本配置&lt;/h2&gt;&lt;h3 id=&quot;1</summary>
+      
+    
+    
+    
+    
+    <category term="python爬虫" scheme="http://gmbjzg.github.io/tags/python%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>python爬虫-数据解析-json</title>
