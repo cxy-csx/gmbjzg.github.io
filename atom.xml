@@ -6,7 +6,7 @@
   <link href="http://gmbjzg.github.io/atom.xml" rel="self"/>
   
   <link href="http://gmbjzg.github.io/"/>
-  <updated>2021-02-24T16:02:53.823Z</updated>
+  <updated>2021-02-24T16:21:50.981Z</updated>
   <id>http://gmbjzg.github.io/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>charles抓包软件配置</title>
-    <link href="http://gmbjzg.github.io/2021/02/24/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
-    <id>http://gmbjzg.github.io/2021/02/24/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/</id>
-    <published>2021-02-24T15:24:35.000Z</published>
-    <updated>2021-02-24T16:02:53.823Z</updated>
+    <link href="http://gmbjzg.github.io/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
+    <id>http://gmbjzg.github.io/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/</id>
+    <published>2021-02-24T16:13:22.000Z</published>
+    <updated>2021-02-24T16:21:50.981Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="一、抓包软件charles的基本配置"><a href="#一、抓包软件charles的基本配置" class="headerlink" title="一、抓包软件charles的基本配置"></a>一、抓包软件charles的基本配置</h2><h3 id="1-1PC端配置"><a href="#1-1PC端配置" class="headerlink" title="1.1PC端配置"></a>1.1PC端配置</h3><p><strong>安装证书</strong></p><p><img src="charles-1.png"></p><p><strong>设置SSL</strong></p><p><img src="charles-2.png" alt="charles-2"></p><h3 id="1-2手机端配置"><a href="#1-2手机端配置" class="headerlink" title="1.2手机端配置"></a>1.2手机端配置</h3><p>手机端证书安装， 根据提示安装</p><p><img src="charles-3.png" alt="charles-3"></p><p>或手动下载charles证书安装</p><p><img src="charles-4.png" alt="charles-4"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="一、抓包软件charles的基本配置"><a href="#一、抓包软件charles的基本配置" class="headerlink" title="一、抓包软件charles的基本配置"></a>一、抓包软件charles的基本配置</h2><h3 id="1-1PC端配置"><a href="#1-1PC端配置" class="headerlink" title="1.1PC端配置"></a>1.1PC端配置</h3><p><strong>安装证书</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% charles-1.png %&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
