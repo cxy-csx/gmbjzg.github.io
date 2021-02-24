@@ -6,7 +6,7 @@
   <link href="http://gmbjzg.github.io/atom.xml" rel="self"/>
   
   <link href="http://gmbjzg.github.io/"/>
-  <updated>2021-02-24T16:42:43.921Z</updated>
+  <updated>2021-02-24T16:51:53.494Z</updated>
   <id>http://gmbjzg.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://gmbjzg.github.io/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/"/>
     <id>http://gmbjzg.github.io/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/</id>
     <published>2021-02-24T16:13:22.000Z</published>
-    <updated>2021-02-24T16:42:43.921Z</updated>
+    <updated>2021-02-24T16:51:53.494Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="一、抓包软件charles的基本配置"><a href="#一、抓包软件charles的基本配置" class="headerlink" title="一、抓包软件charles的基本配置"></a>一、抓包软件charles的基本配置</h2><h3 id="1-1PC端配置"><a href="#1-1PC端配置" class="headerlink" title="1.1PC端配置"></a>1.1PC端配置</h3><p><strong>安装证书</strong></p><p><img src="/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/charles-1.png"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="一、抓包软件charles的基本配置"><a href="#一、抓包软件charles的基本配置" class="headerlink" title="一、抓包软件charles的基本配置"></a>一、抓包软件charles的基本配置</h2><h3 id="1-1PC端配置"><a href="#1-1PC端配置" class="headerlink" title="1.1PC端配置"></a>1.1PC端配置</h3><p><strong>安装证书</strong></p><p><img src="/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/charles-1.png" alt="image-20210224232138329"></p><p><strong>设置SSL</strong></p><p><img src="/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/charles-2.png" alt="image-20210224232138329"></p><h3 id="1-2手机端配置"><a href="#1-2手机端配置" class="headerlink" title="1.2手机端配置"></a>1.2手机端配置</h3><p>手机端证书安装， 根据提示安装</p><p><img src="/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/charles-3.png" alt="image-20210224232138329"></p><p>或手动下载charles证书安装</p><p><img src="/2021/02/25/charles%E6%8A%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E9%85%8D%E7%BD%AE/charles-4.png" alt="image-20210224232138329"></p>]]></content>
     
     
       
@@ -58,30 +58,6 @@
     
     
     <category term="python爬虫" scheme="http://gmbjzg.github.io/tags/python%E7%88%AC%E8%99%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo-pure个人博客搭建教程(1)</title>
-    <link href="http://gmbjzg.github.io/2021/02/18/hexo-pure%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B-1/"/>
-    <id>http://gmbjzg.github.io/2021/02/18/hexo-pure%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B-1/</id>
-    <published>2021-02-18T10:03:12.000Z</published>
-    <updated>2021-02-18T12:57:31.784Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="个人博客搭建教程"><a href="#个人博客搭建教程" class="headerlink" title="个人博客搭建教程"></a>个人博客搭建教程</h1><p>参考文档：<a href="https://hexoscript.gitbook.io/hexo-script/">https://hexoscript.gitbook.io/hexo-script/</a></p><p>官网：<a href="https://hexo.io/zh-cn/">https://hexo.io/zh-cn/</a></p><p>主题：<a href="https://hexo.io/themes/">https://hexo.io/themes/</a></p><h2 id="1-1前期准备"><a href="#1-1前期准备" class="headerlink" title="1.1前期准备"></a>1.1前期准备</h2><p>1、注册github账号</p><p><a href="https://github.com/">https://github.com/</a></p><p>2、下载git软件</p><p><a href="https://git-scm.com/">https://git-scm.com/</a></p><p>3、安装node.js环境</p><p><a href="https://nodejs.org/zh-cn/">https://nodejs.org/zh-cn/</a></p><h2 id="1-2博客搭建"><a href="#1-2博客搭建" class="headerlink" title="1.2博客搭建"></a>1.2博客搭建</h2><p><strong>步骤</strong></p><p>新建一个文件夹<code>myblog</code>，用于下载hexo</p><p>1、脚本下载地址：<a href="https://github.com/kjhuanhao/hexo-script/releases">https://github.com/kjhuanhao/hexo-script/releases</a></p><p>2、本地环境检测</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">source install.sh test_node  # 测试node环境</span><br><span class="line">source install.sh test_git  # 测试git环境</span><br></pre></td></tr></table></figure><p>3、下载hexo</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">source install.sh hexo_win</span><br></pre></td></tr></table></figure><p>4、本地测试</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd hexoblog</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure><p>5、生成SSH密钥</p><p>在myblog目录下，生成密钥</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./install.sh git_ssh</span><br></pre></td></tr></table></figure><p>6、公钥获取</p><p>用户目录下的.ssh文件夹</p><p>如：C:\Users\gmbjzg\.ssh</p><p>7、新建远程仓库</p><p>仓库名字格式要求：<code>用户名.github.io</code></p><p>8、配置信息</p><p>路径：<code>C:\Users\gmbjzg\Desktop\myblog\hexoblog\_config.yml</code></p><p>配置信息如下：</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: 这里填你的仓库地址,建议使用SSH地址,它是以git开头的</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure><p>9、生成上传脚本</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">source install.sh deploy</span><br></pre></td></tr></table></figure><p>10、部署到远程仓库</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">source up.sh</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;个人博客搭建教程&quot;&gt;&lt;a href=&quot;#个人博客搭建教程&quot; class=&quot;headerlink&quot; title=&quot;个人博客搭建教程&quot;&gt;&lt;/a&gt;个人博客搭建教程&lt;/h1&gt;&lt;p&gt;参考文档：&lt;a href=&quot;https://hexoscript.gitbook.io/he</summary>
-      
-    
-    
-    
-    <category term="实用教程" scheme="http://gmbjzg.github.io/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="博客搭建" scheme="http://gmbjzg.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
